@@ -24,7 +24,9 @@ Calistoga is published by Sorkin Type Co.
 
 ## About
 
-Sorkin Type Co. makes fonts.
+Yvonne Schuttler is a type face designer from Germany.
+
+Eben Sorkin designs and art directs typefaces. He works with Sorkin Type Co. and Darden Studio
 
 ## Languages
 
