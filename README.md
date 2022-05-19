@@ -46,8 +46,8 @@ Changelog example:
 
 **26 May 2021. Version 1.007**
 - MAJOR Font turned to a variable font.
-- SIGNIFICANT Kerning improved.
 - SIGNIFICANT Language support improved.
+- SIGNIFICANT Kerning improved.
 
 ## License
 
