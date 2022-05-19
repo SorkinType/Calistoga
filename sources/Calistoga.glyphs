@@ -38047,7 +38047,7 @@ R = NoKerning;
 );
 instances = (
 {
-interpolationWeight = 400;
+interpolationWeight = 172;
 instanceInterpolations = {
 "184835E3-72D9-430C-A639-2454AC4A0BE8" = 1;
 };
