@@ -37,7 +37,7 @@ code = "zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seve
 name = denominators;
 }
 );
-copyright = "Copyright 2019 The Calistoga Project Authors (https://github.com/SorkinType/CalistogaVF)";
+copyright = "Copyright 2019 The Calistoga Project Authors (https://github.com/SorkinType/Calistoga)";
 customParameters = (
 {
 name = description;
