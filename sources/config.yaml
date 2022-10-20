@@ -1,5 +1,4 @@
 sources:
   - Calistoga.glyphs
-axisOrder:
-  - wght
 familyName: Calistoga
+buildVariable: False
