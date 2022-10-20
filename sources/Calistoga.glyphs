@@ -1,6 +1,9 @@
 {
 .appVersion = "3133";
 .formatVersion = 3;
+DisplayStrings = (
+"ḩ"
+);
 classes = (
 {
 automatic = 1;
@@ -13711,6 +13714,7 @@ unicode = 543;
 },
 {
 glyphname = hcedilla;
+lastChange = "2022-10-20 09:31:13 +0000";
 layers = (
 {
 layerId = "184835E3-72D9-430C-A639-2454AC4A0BE8";
@@ -13719,7 +13723,8 @@ shapes = (
 ref = h;
 },
 {
-pos = (312,0);
+alignment = -1;
+pos = (172,0);
 ref = cedillacomb;
 }
 );
