@@ -1,9 +1,6 @@
 {
 .appVersion = "3133";
 .formatVersion = 3;
-DisplayStrings = (
-"HḪȞḨĤḦḢḤḨ"
-);
 classes = (
 {
 automatic = 1;
@@ -14659,7 +14656,7 @@ unicode = 309;
 glyphname = k;
 kernLeft = KO_k;
 kernRight = KO_k;
-lastChange = "2022-05-19 01:21:39 +0000";
+lastChange = "2022-10-20 09:08:45 +0000";
 layers = (
 {
 anchors = (
@@ -14669,7 +14666,7 @@ pos = (293,0);
 },
 {
 name = top;
-pos = (295,972);
+pos = (146,788);
 }
 );
 layerId = "184835E3-72D9-430C-A639-2454AC4A0BE8";
@@ -14752,6 +14749,7 @@ KernOnName = k;
 },
 {
 glyphname = kacute;
+lastChange = "2022-10-20 09:08:45 +0000";
 layers = (
 {
 layerId = "184835E3-72D9-430C-A639-2454AC4A0BE8";
@@ -14760,7 +14758,7 @@ shapes = (
 ref = k;
 },
 {
-pos = (150,274);
+pos = (1,90);
 ref = acutecomb.case;
 }
 );
@@ -14771,6 +14769,7 @@ unicode = 7729;
 },
 {
 glyphname = kcaron;
+lastChange = "2022-10-20 09:08:49 +0000";
 layers = (
 {
 layerId = "184835E3-72D9-430C-A639-2454AC4A0BE8";
@@ -14779,7 +14778,7 @@ shapes = (
 ref = k;
 },
 {
-pos = (49,274);
+pos = (-100,90);
 ref = caroncomb.case;
 }
 );
