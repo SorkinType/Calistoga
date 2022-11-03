@@ -53,9 +53,11 @@ When you update your font (new version or new release), please report all notabl
 Changelog example:
 
 **26 May 2021. Version 1.007**
-- MAJOR Font turned to a variable font.
 - SIGNIFICANT Language support improved. Additional symbols added.
 - SIGNIFICANT Kerning improved.
+
+**21 October 2022. Version 1.008**
+- Corrected anchors position
 
 ## License
 
