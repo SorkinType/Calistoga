@@ -22,11 +22,7 @@ Fontbakery version: 0.8.8
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni0146.loclMAH
 	- NULL
-	- uni0145.loclMAH
-	- uni013B.loclMAH 
-	- And uni013C.loclMAH
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -36,17 +32,17 @@ Fontbakery version: 0.8.8
 
 The following glyphs do not have the recommended number of contours:
 
+	- Glyph name: uni01EC	Contours detected: 4	Expected: 3
+	- Glyph name: uni01ED	Contours detected: 4	Expected: 3
 	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
 	- Glyph name: uni0228	Contours detected: 2	Expected: 1
 	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+	- Glyph name: uni0E3F	Contours detected: 4	Expected: 3
 	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
 	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
-	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1
-	- Glyph name: uni0229	Contours detected: 3	Expected: 2
-	- Glyph name: uni1E08	Contours detected: 3	Expected: 2 
-	- And 3 more.
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3 
+	- And 9 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -59,6 +55,8 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
+ * Eng (U+014A): L<<494.0,-2.0>--<493.0,506.0>>
+ * Eng (U+014A): L<<661.0,518.0>--<662.0,-9.0>>
  * eng (U+014B): L<<380.0,-2.0>--<379.0,379.0>>
  * eng (U+014B): L<<543.0,408.0>--<544.0,-9.0>>
  * franc (U+20A3): L<<503.0,459.0>--<504.0,286.0>>
