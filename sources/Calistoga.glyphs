@@ -14303,7 +14303,7 @@ unicode = 277;
 glyphname = ecaron;
 kernLeft = KO_egrave;
 kernRight = KO_eacute;
-lastChange = "2022-05-19 01:21:39 +0000";
+lastChange = "2024-04-10 14:25:32 +0000";
 layers = (
 {
 layerId = "184835E3-72D9-430C-A639-2454AC4A0BE8";
@@ -15481,7 +15481,7 @@ unicode = 7713;
 glyphname = h;
 kernLeft = KO_h;
 kernRight = KO_h;
-lastChange = "2023-11-18 20:43:47 +0000";
+lastChange = "2024-04-10 14:24:20 +0000";
 layers = (
 {
 anchors = (
@@ -15731,7 +15731,7 @@ unicode = 543;
 glyphname = hcedilla;
 kernLeft = KO_h;
 kernRight = KO_h;
-lastChange = "2022-10-20 09:31:13 +0000";
+lastChange = "2024-04-10 14:24:25 +0000";
 layers = (
 {
 layerId = "184835E3-72D9-430C-A639-2454AC4A0BE8";
@@ -15741,7 +15741,7 @@ ref = h;
 },
 {
 alignment = -1;
-pos = (172,0);
+pos = (-16,0);
 ref = cedillacomb;
 }
 );
@@ -31313,7 +31313,7 @@ R = quotes;
 glyphname = quotedblbase;
 kernLeft = KO_quotedblbase;
 kernRight = KO_quotedblbase;
-lastChange = "2022-05-19 01:21:39 +0000";
+lastChange = "2024-04-10 14:26:30 +0000";
 layers = (
 {
 layerId = "184835E3-72D9-430C-A639-2454AC4A0BE8";
@@ -49135,6 +49135,7 @@ kerningLTR = {
 "@MMK_R_KO_pi" = -73;
 "@MMK_R_KO_question" = -2;
 "@MMK_R_KO_quotedbl" = -31;
+"@MMK_R_KO_quotedblbase" = -135;
 "@MMK_R_KO_quotedblleft" = -13;
 "@MMK_R_KO_quoteright" = -16;
 "@MMK_R_KO_r" = -55;
@@ -51433,6 +51434,7 @@ kerningLTR = {
 "@MMK_R_KO_comma" = -96;
 "@MMK_R_KO_d" = -91;
 "@MMK_R_KO_e" = -92;
+"@MMK_R_KO_egrave" = -60;
 "@MMK_R_KO_eightsuperior" = -18;
 "@MMK_R_KO_ellipsis" = -100;
 "@MMK_R_KO_exclam" = -8;
